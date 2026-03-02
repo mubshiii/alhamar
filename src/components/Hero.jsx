@@ -10,8 +10,8 @@ export default function Hero() {
             {/* HD Background Image */}
             <div className="absolute inset-0">
                 <img
-                    src="https://images.pexels.com/photos/97353/pexels-photo-97353.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop"
-                    alt="RC Car Action"
+                    src="/hero.png"
+                    alt="Al-Hamar Hobby Shop"
                     className="w-full h-full object-cover"
                 />
                 {/* Dark overlay for text readability */}
