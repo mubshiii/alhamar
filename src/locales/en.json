@@ -1,0 +1,101 @@
+{
+    "nav": {
+        "home": "Home",
+        "categories": "Categories",
+        "about": "About",
+        "gallery": "Gallery",
+        "contact": "Contact",
+        "rcPlanes": "RC Planes",
+        "rcCars": "RC Cars",
+        "rcHelicopters": "RC Helicopters",
+        "partsAccessories": "Parts & Accessories"
+    },
+    "hero": {
+        "headline": "Kuwait's Premier RC Hobby Destination Since 1976",
+        "subtitle": "Explore the finest collection of RC planes, cars, helicopters, and accessories from world-renowned brands.",
+        "explore": "Explore Collection",
+        "contactUs": "Contact Us"
+    },
+    "categories": {
+        "title": "Our Categories",
+        "subtitle": "Discover our wide range of premium RC products",
+        "planes": "RC Planes",
+        "cars": "RC Cars",
+        "helicopters": "RC Helicopters",
+        "parts": "Parts & Accessories",
+        "planesDesc": "High-performance remote control aircraft for enthusiasts of all levels.",
+        "carsDesc": "Speed and precision on any terrain — from beginner to pro-level.",
+        "helicoptersDesc": "Master the skies with our premium helicopter collection.",
+        "partsDesc": "Genuine spare parts and top-quality accessories for all models."
+    },
+    "featured": {
+        "title": "Featured Models",
+        "subtitle": "Handpicked selections from our latest inventory",
+        "enquire": "Enquire on WhatsApp",
+        "models": [
+            {
+                "name": "Traxxas Slash 4x4 VXL",
+                "desc": "High-speed 4WD short course truck with brushless power system."
+            },
+            {
+                "name": "E-flite Apprentice STS 1.5m",
+                "desc": "Trainer aircraft with SAFE technology for beginners."
+            },
+            {
+                "name": "Blade 230 S V2",
+                "desc": "Intermediate aerobatic helicopter with SAFE technology."
+            },
+            {
+                "name": "Arrma Kraton 6S BLX",
+                "desc": "Extreme bash monster truck built for durability and speed."
+            },
+            {
+                "name": "FMS P-51 Mustang 1400mm",
+                "desc": "Scale warbird with retractable landing gear and flaps."
+            },
+            {
+                "name": "Spektrum DX6e Transmitter",
+                "desc": "6-channel DSMX transmitter for versatile RC control."
+            }
+        ]
+    },
+    "about": {
+        "title": "About Al-Hamer Hobby",
+        "subtitle": "A Legacy of Passion Since 1976",
+        "p1": "Established in 1976, Al-Hamer Hobby has been Kuwait's most trusted destination for remote control enthusiasts. For nearly five decades, we have served hobbyists of all ages with the finest RC planes, cars, helicopters, and accessories from world-renowned brands.",
+        "p2": "Our commitment to quality extends beyond just selling products. We provide expert advice, genuine spare parts, and after-sales support to keep your hobby alive and thriving. From beginners taking their first flight to seasoned racers pushing the limits, Al-Hamer Hobby is your partner in every adventure.",
+        "p3": "Located in the heart of Kuwait, we continue to bring the latest innovations in RC technology to the Gulf region, upholding our reputation for excellence and passion.",
+        "yearsExperience": "Years of Experience",
+        "premiumBrands": "Premium Brands",
+        "happyCustomers": "Happy Customers",
+        "spareParts": "Spare Parts Available"
+    },
+    "gallery": {
+        "title": "Gallery",
+        "subtitle": "Moments from our world of RC"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "We'd love to hear from you",
+        "address": "Address",
+        "addressValue": "Al-Rai Industrial Area, Kuwait City, Kuwait",
+        "phone": "Phone",
+        "phoneValue": "+965 2222 3333",
+        "whatsapp": "WhatsApp",
+        "whatsappValue": "+965 9999 8888",
+        "email": "Email",
+        "emailValue": "info@alhamerhobby.com",
+        "formName": "Your Name",
+        "formEmail": "Your Email",
+        "formMessage": "Your Message",
+        "formSend": "Send Message",
+        "formSuccess": "Thank you! We'll get back to you soon."
+    },
+    "footer": {
+        "description": "Kuwait's premier destination for RC planes, cars, helicopters, and accessories since 1976.",
+        "quickLinks": "Quick Links",
+        "followUs": "Follow Us",
+        "rights": "All rights reserved.",
+        "madeWith": "Made with ❤️ in Kuwait"
+    }
+}
