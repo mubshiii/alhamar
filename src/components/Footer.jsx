@@ -35,7 +35,7 @@ export default function Footer() {
                                 <img src="/logo.png" alt="Al-Hamer Logo" className="w-full h-full object-cover" />
                             </div>
                             <div>
-                                <span className="text-lg font-bold text-white">Al-Hamer</span>
+                                <span className="text-lg font-bold text-white">Al-Hamar</span>
                                 <span className="text-lg font-light text-gold ms-1">Hobby</span>
                             </div>
                         </div>

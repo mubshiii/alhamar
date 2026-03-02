@@ -59,10 +59,10 @@ export default function Navbar() {
                     {/* Logo */}
                     <a href="#home" className="flex items-center gap-2 group">
                         <div className="w-14 h-14 rounded-full overflow-hidden flex-shrink-0">
-                            <img src="/logo.png" alt="Al-Hamer Logo" className="w-full h-full object-cover" />
+                            <img src="/logo.png" alt="Al-Hamar Logo" className="w-full h-full object-cover" />
                         </div>
                         <div>
-                            <span className={`text-lg font-bold transition-colors duration-300 ${logoTextClass}`}>Al-Hamer</span>
+                            <span className={`text-lg font-bold transition-colors duration-300 ${logoTextClass}`}>Al-Hamar</span>
                             <span className="text-lg font-light text-gold ms-1">Hobby</span>
                         </div>
                     </a>
